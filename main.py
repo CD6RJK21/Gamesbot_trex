@@ -1,8 +1,7 @@
-from flask import Flask, render_template
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 
-API_TOKEN = "1698850662:AAH5uh9R1tGiyC5i43yp1P-qeHmD0YJB3Qw"
+API_TOKEN = "1743359088:AAGwmbWk-yJo6mbtwGGGsuM0agdIlduJKQI"
 
 
 bot = Bot(token=API_TOKEN, timeout=100)
